@@ -1,0 +1,4 @@
+[submodule "appits/localizacionO15"]
+	path = appits/localizacionO15
+	url = git@github.com:appits/localizacionO15.git
+	branch = main
